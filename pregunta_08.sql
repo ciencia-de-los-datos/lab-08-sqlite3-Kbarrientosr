@@ -41,3 +41,7 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+SELECT strftime('%Y', c23),
+        avg(c21)
+    frin tbl2
+    GROUP BY strftime('%Y', c23);
