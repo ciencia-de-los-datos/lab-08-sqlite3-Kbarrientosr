@@ -42,5 +42,5 @@
 -- 
 SELECT K0, c16
     FROM tbl1
-    WHERE SUBSTRING(c16, 1, 1) = K0;
-    
+    WHERE SUBSTRING(c16,1,1) = K0;
+

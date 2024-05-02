@@ -40,4 +40,4 @@
 -- 
 SELECT COUNT(*)
     FROM tbl1
-    WHERE strftime("%Y", c14) IN ("2018");
+    WHERE strftime ("%Y", c14) IN ("2018");

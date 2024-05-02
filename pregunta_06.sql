@@ -47,4 +47,4 @@ SELECT *
     FROM tbl1
     WHERE K0 IN ("A")
     ORDER BY c14;
-    
+
